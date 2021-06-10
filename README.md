@@ -11,7 +11,7 @@ This images includes additional packages to the centos base image :
 
 # Supported Tags
 
-* `main` : AlmaLinux 8
+* `main` : AlmaLinux 8.4
 
 # License
 
