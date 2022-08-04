@@ -1,7 +1,7 @@
 #
 # Dockerfile for CentOS 8 instance
 #
-FROM almalinux:latest
+FROM almalinux:8.6
 LABEL maintener="Koichi Murakami <koichi.murakami@kek.jp>"
 
 #
