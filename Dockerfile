@@ -1,7 +1,7 @@
 #
 # Dockerfile for AlmaLinux instance
 #
-FROM almalinux:latest
+FROM almalinux:9.1
 LABEL maintener="Koichi Murakami <koichi.murakami@kek.jp>"
 
 #
